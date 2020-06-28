@@ -1,0 +1,14 @@
+{
+  "name": "operand_pair_indices_for_sum",
+  "version": "1.0.0",
+  "description": "Selects a pair of indices whose values add up to a given sum",
+  "main": "operand_pair_indices_for_sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Charles Hudson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
